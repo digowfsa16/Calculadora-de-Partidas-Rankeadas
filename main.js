@@ -39,4 +39,4 @@ function updateHeroi(saldo,niveis,maxlvl){
 
 // ## Saída
 
-console.log(`O Herói tem de saldo de ${saldo} e está no nível ${rank}`)
+console.log(`O Herói tem o saldo de ${saldo} e está no nível ${rank}`)
