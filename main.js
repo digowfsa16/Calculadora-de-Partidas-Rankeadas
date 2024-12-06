@@ -22,9 +22,6 @@ let maxlvl= [101,"Imortal"]
 let rank = updateHeroi(saldo,niveis,maxlvl)
 
 
-
-
-
 function updateHeroi(saldo,niveis,maxlvl){  
 
     if (saldo >= maxlvl[0]){
